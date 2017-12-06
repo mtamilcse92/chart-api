@@ -1,0 +1,12 @@
+{
+  "name": "chart-api",
+  "version": "1.0.0",
+  "description": "this package provide chart as api response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
